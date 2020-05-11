@@ -7,7 +7,25 @@
 		<key>Test-Cocoapods.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1B267D412469874600D7503C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1B267D572469874900D7503C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1B267D622469874900D7503C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
