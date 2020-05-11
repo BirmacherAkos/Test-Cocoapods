@@ -9,18 +9,21 @@ target 'Test-Cocoapods' do
   pod 'IQKeyboardManagerSwift', '~> 6.5'
   pod 'Alamofire', '~> 5.1'
   pod 'ImagePicker', '~> 3.1'
+  pod 'Firebase', '~> 6.24'
 
   target 'Test-CocoapodsTests' do
     inherit! :search_paths
     pod 'IQKeyboardManagerSwift', '~> 6.5'
     pod 'Alamofire', '~> 5.1'
     pod 'ImagePicker', '~> 3.1'
+    pod 'Firebase', '~> 6.24'
   end
 
   target 'Test-CocoapodsUITests' do
     pod 'IQKeyboardManagerSwift', '~> 6.5'
     pod 'Alamofire', '~> 5.1'
     pod 'ImagePicker', '~> 3.1'
+    pod 'Firebase', '~> 6.24'
   end
 
 end 
